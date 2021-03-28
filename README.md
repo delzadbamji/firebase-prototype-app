@@ -1,5 +1,5 @@
 # firebase-protoype-app
-This app is the outome of Google's firebase CodeLab.
+This app is the outcome of Google's firebase CodeLab.
 The full prototype of this app has been deployed on Google Cloud.
 Visit https://fir-web-codelab-6aedb.web.app/ to see the app.
 
